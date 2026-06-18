@@ -1,41 +1,36 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "name": "Ravi-MD",
+  "description": "Ravi-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀᴀᴠɪ · Contact: +94768223718",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
-
-    "stack": "container",
+  "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
-    
     "GITHUB_USER_NAME": {
       "description": "put your github name",
       "required": true,
       "value": ""
     },
-
     "GITHUB_AUTH_TOKEN": {
       "description": "put your github auth token without gph_",
       "required": true,
       "value": ""
     },
-
     "OWNE_NUMBER": {
       "description": "Add your number",
       "required": true,
       "value": ""
     }
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
   "stack": "heroku-24"
 }
