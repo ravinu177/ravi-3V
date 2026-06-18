@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "ravi",
   "version": "4.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
-  "main": "Lara.js",
+  "description": "Ravi-MD WhatsApp bot created Ravi With using Node.js",
+  "main": "Ravi.js",
   "scripts": {
-    "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start Ravi.js --deep-monitoring --attach --name ravi",
+    "stop": "pm2 stop ravi",
+    "restart": "pm2 restart ravi"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
