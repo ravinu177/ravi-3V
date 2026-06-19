@@ -1,7 +1,7 @@
 {
   "name": "Ravi-MD",
   "description": "Ravi-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀᴀᴠɪ · Contact: +94768223718",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "logo": "https://i.postimg.cc/3wqsBm2d/Whats-App-Image-2026-06-17-at-5-51-24-PM.jpg",
   "keywords": ["bot"],
   "success_url": "/",
   "stack": "container",
@@ -10,7 +10,7 @@
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
-    },  
+    },
     "GITHUB_USER_NAME": {
       "description": "put your github name",
       "required": true,
