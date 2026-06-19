@@ -6,17 +6,15 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '94768223718' : process.env.OWNER_NUMBER, // ඔබේ WhatsApp අංකය ඇතුළත් කර ඇත
-    SESSION_ID: process.env.SESSION_ID === undefined ? 'SESSION_ID: process.env.SESSION_ID === undefined ? 'env.SESSION_ID' : process.env.SESSION_ID,' : process.env.SESSION_ID, //ADD YOUR SESSION ID
-    GITHUB_USER_NAME: process.env.GITHUB_USER_NAME === undefined ? 'ravinu177' : process.env.GITHUB_USER_NAME, //ADD YOUR GITHUB USERNAME
-    GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '' : process.env.GITHUB_AUTH_TOKEN //ADD YOUR GITHUB AUTH TOKEN WITHOUT gph_
+OWNER_NUMBER: process.env.OWNER_NUMBER === undefined ? '94768223718' : process.env.OWNER_NUMBER,
+SESSION_ID: process.env.SESSION_ID === undefined ? 'KnightBot!eFlU0w7I#w0Y6G3M9_T4nKl1P2qR5sV7bN8mX0zC3xV6bB9n' : process.env.SESSION_ID,
+GITHUB_USER_NAME: process.env.GITHUB_USER_NAME === undefined ? 'ravinu177' : process.env.GITHUB_USER_NAME,
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '' : process.env.GITHUB_AUTH_TOKEN
 };
 
-/*
-RAVI MD BOT DEVELOPED BY RAVI
-
+/* RAVI MD BOT DEVELOPED BY RAVI
 (\ (\,,/)        /),,/)
 (-•(    )       (•_•  )
 (> ( '  )       ( 💔 )/
-  U u  u         U  U
+ U u  u         U  U
 */
