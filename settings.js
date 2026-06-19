@@ -11,10 +11,3 @@ SESSION_ID: process.env.SESSION_ID === undefined ? 'KnightBot!eFlU0w7I#w0Y6G3M9_
 GITHUB_USER_NAME: process.env.GITHUB_USER_NAME === undefined ? 'ravinu177' : process.env.GITHUB_USER_NAME,
 GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN === undefined ? '' : process.env.GITHUB_AUTH_TOKEN
 };
-
-/* RAVI MD BOT DEVELOPED BY RAVI
-(\ (\,,/)        /),,/)
-(-•(    )       (•_•  )
-(> ( '  )       ( 💔 )/
- U u  u         U  U
-*/
