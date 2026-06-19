@@ -2,10 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=RAVI-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻RAVI-MD WHATSAPP BOT👧🏻</h3>
+	<img src="https://i.imgur.com/0C5vHV9.jpeg" alt="Ravi Bot Banner" width="500" style="margin-top: 10px; border-radius: 8px;"/>
 </div>
-<div align="center">
-</p>
-	
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+RAVI+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
